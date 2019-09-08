@@ -8,6 +8,6 @@ public class CalculateProfit {
 	static float calculateProfit(int numAttendees) {
 		final int COST_PER_SHOW = 20;
 		
-		return (numAttendees*0.50f) + COST_PER_SHOW; 
+		return (numAttendees*0.50f) + COST_PER_SHOW;
 	}
 }
